@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomPieChartDemo-master/CustomPieChartDemo-master.iml" filepath="$PROJECT_DIR$/CustomPieChartDemo-master/CustomPieChartDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MPAndroidChartSample/MPAndroidChartSample.iml" filepath="$PROJECT_DIR$/MPAndroidChartSample/MPAndroidChartSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SublimePicker-master.iml" filepath="$PROJECT_DIR$/SublimePicker-master.iml" />
+    </modules>
+  </component>
+</project>
